@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "name": "jogadorespalmeiras",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aguinaldooli/JogadoresPalmeiras.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aguinaldooli/JogadoresPalmeiras/issues"
+  },
+  "homepage": "https://github.com/Aguinaldooli/JogadoresPalmeiras#readme",
+  "description": "",
+  "devDependencies": {
+    "prisma": "^5.3.1"
+  }
+}
